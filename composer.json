@@ -1,0 +1,15 @@
+{
+    "name": "nabeelalihashmi/apilot-starter",
+    "description": "Apilot Starter Project",
+    "type": "project",
+    "require": {
+        "nabeelalihashmi/apilot-engine": "^0.0.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nabeel Ali",
+            "email": "mail2nabeelali@gmail.com"
+        }
+    ]
+}

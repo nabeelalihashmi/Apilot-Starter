@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f0edec679787f266b25ebe4b280e27da",
+    "packages": [
+        {
+            "name": "nabeelalihashmi/apilot-engine",
+            "version": "v0.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nabeelalihashmi/Apilot-Engine.git",
+                "reference": "c61ee7607c336cbcc0e770e2631521f3125891ef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nabeelalihashmi/Apilot-Engine/zipball/c61ee7607c336cbcc0e770e2631521f3125891ef",
+                "reference": "c61ee7607c336cbcc0e770e2631521f3125891ef",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ApilotEngine\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nabeel Ali",
+                    "email": "mail2nabeelali@gmail.com"
+                }
+            ],
+            "description": "Simple endpoint-in-files router for PHP",
+            "support": {
+                "issues": "https://github.com/nabeelalihashmi/Apilot-Engine/issues",
+                "source": "https://github.com/nabeelalihashmi/Apilot-Engine/tree/v0.0.7"
+            },
+            "time": "2022-01-28T17:55:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
