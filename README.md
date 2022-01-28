@@ -6,4 +6,8 @@ Apilot is a fast php routing solution
 
 ## Creating project
 - Clone this repo and start adding in cockpit.
-- 
+- Use this command
+
+```
+composer create-project nabeelalihashmi/apilot-starter my_project
+```
